@@ -17,7 +17,8 @@ El proyecto cumple con la estructura requerida de entrega individual, integrando
 * `Landing_Page`/ `app.py`: Aplicación principal en Streamlit que contiene la Landing Page corporativa y el Dashboard analítico.
 * `datos_solares.csv`: Dataset principal procesado para alimentar las visualizaciones.
 * `Landing_Page`/ `requirements.txt`: Listado de librerías y dependencias de Python.
-* `proyecto solar_weather 2.0.pdf`: Documento técnico
+* `Generacion energia fotovoltaica vs Clima.pdf`: Documento técnico
+* `Talento tech.pbix`: Dashboard
 
 ## 🚀 Cómo ver el proyecto en vivo
 El dashboard interactivo está desplegado en Streamlit Community Cloud. Puedes acceder a él a través del siguiente enlace:
